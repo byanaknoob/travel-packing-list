@@ -3,6 +3,7 @@ import Logo from "./Logo";
 import Form from "./Form";
 import PackingList from "./PackingList";
 import Stats from "./Stats";
+import Footer from "./Footer";
 
 export default function App() {
   const [items, setItems] = useState(() => {
@@ -45,6 +46,7 @@ export default function App() {
         onClearItems={clearItems}
       />
       <Stats items={items} />
+      <Footer />
     </div>
   );
 }

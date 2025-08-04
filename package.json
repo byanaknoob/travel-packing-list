@@ -2,10 +2,16 @@
   "name": "travel-packing-list",
   "version": "1.0.0",
   "description": "A React app to help organize your travel packing list with search, sort, and progress tracking features",
-  "keywords": ["react", "travel", "packing", "list", "organization"],
+  "keywords": [
+    "react",
+    "travel",
+    "packing",
+    "list",
+    "organization"
+  ],
   "author": "Your Name",
   "license": "MIT",
-  "homepage": "https://yourusername.github.io/travel-packing-list",
+  "homepage": "https://byanaknoob.github.io/travel-packing-list",
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/travel-packing-list.git"
@@ -46,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
