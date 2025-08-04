@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/travel-packing-list/static/css/main.6e2d1178.css",
-    "main.js": "/travel-packing-list/static/js/main.233b1fd5.js",
+    "main.css": "/travel-packing-list/static/css/main.109c4692.css",
+    "main.js": "/travel-packing-list/static/js/main.72297705.js",
     "index.html": "/travel-packing-list/index.html",
-    "main.6e2d1178.css.map": "/travel-packing-list/static/css/main.6e2d1178.css.map",
-    "main.233b1fd5.js.map": "/travel-packing-list/static/js/main.233b1fd5.js.map"
+    "main.109c4692.css.map": "/travel-packing-list/static/css/main.109c4692.css.map",
+    "main.72297705.js.map": "/travel-packing-list/static/js/main.72297705.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e2d1178.css",
-    "static/js/main.233b1fd5.js"
+    "static/css/main.109c4692.css",
+    "static/js/main.72297705.js"
   ]
 }
