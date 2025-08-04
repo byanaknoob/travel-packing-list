@@ -1,7 +1,16 @@
 {
-  "name": "travel-list",
-  "version": "0.1.0",
-  "private": true,
+  "name": "travel-packing-list",
+  "version": "1.0.0",
+  "description": "A React app to help organize your travel packing list with search, sort, and progress tracking features",
+  "keywords": ["react", "travel", "packing", "list", "organization"],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://yourusername.github.io/travel-packing-list",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/travel-packing-list.git"
+  },
+  "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -16,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
